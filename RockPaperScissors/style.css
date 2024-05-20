@@ -1,0 +1,61 @@
+.class1{
+    position: fixed;
+    top:200px;
+    height: 150px;
+    width: 150px;
+}
+#img1{
+    position: absolute;
+    height: 150px;
+    width: auto;
+}
+.class2{
+    position: fixed;
+    top:200px;
+    height: 150px;
+    width: 150px;
+    left : 200px;
+}
+.class3{
+    position: fixed;
+    height: 150px;
+    top:200px;
+    width: 150px;
+    left : 400px;
+}
+#img2{
+    position: absolute;
+    height: 150px;
+    width: auto;
+}#img3{
+    position: absolute;
+    height: 150px;
+    width: auto;
+}#img4{
+    position: absolute;
+    height: 150px;
+    width: auto;
+}#img5{
+    position: absolute;
+    height: 149px;
+    width: auto;
+}#img6{
+    position: absolute;
+    height: 150px;
+    width: auto;
+}
+.whole{
+    position : fixed;
+    top:350px;
+    width:100%
+}
+.human{
+    position:relative
+}
+.comp{
+    position:relatives
+}
+#poject{
+    position: sticky;
+    bottom: 0;
+}
